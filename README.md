@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🖼️ WallReddit — Reddit Wallpaper App for Android
+# 🖼️ WallSpace — Reddit Wallpaper App for Android
 
 **A modern, native Android wallpaper app that turns Reddit into an endless source of high-quality wallpapers — with auto-rotation, offline favorites, and a clean Material 3 interface.**
 
@@ -22,7 +22,7 @@
 
 ## Overview
 
-**WallReddit** is a native Android app built entirely in Kotlin with Jetpack Compose. It fetches images, GIFs, and videos from any combination of subreddits, lets users browse in a fluid staggered grid, set wallpapers directly to home/lock screens, save favorites offline, and even auto-rotate their wallpaper on a schedule.
+**WallSpace** is a native Android app built entirely in Kotlin with Jetpack Compose. It fetches images, GIFs, and videos from any combination of subreddits, lets users browse in a fluid staggered grid, set wallpapers directly to home/lock screens, save favorites offline, and even auto-rotate their wallpaper on a schedule.
 
 It's built on a clean, layered architecture (data / domain / UI) with proper separation of concerns — the kind of structure that scales and stays maintainable, not a single-Activity prototype.
 
@@ -67,7 +67,7 @@ It's built on a clean, layered architecture (data / domain / UI) with proper sep
 
 ## Architecture
 
-WallReddit follows **Clean Architecture** with three clearly separated layers:
+WallSpace follows **Clean Architecture** with three clearly separated layers:
 
 ```
 app/src/main/java/com/example/
