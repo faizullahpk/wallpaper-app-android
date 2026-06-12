@@ -9,7 +9,7 @@ import androidx.compose.ui.platform.LocalContext
 
 // Sophisticated Dark Color Scheme values
 private val SophisticatedDarkColorScheme = darkColorScheme(
-    primary = Color(0xFFD0BCFF),          // Lavender/purple accent (e.g. WallReddit title, badges)
+    primary = Color(0xFFD0BCFF),          // Lavender/purple accent (e.g. WallSpace title, badges)
     onPrimary = Color(0xFF381E72),        // Deep dark indigo text on primary
     primaryContainer = Color(0xFF4A4458), // Medium dark-slate highlight (active nav, chips)
     onPrimaryContainer = Color(0xFFE8DEF8), // Lavender white
@@ -73,4 +73,3 @@ fun MyApplicationTheme(
         content = content
     )
 }
-
