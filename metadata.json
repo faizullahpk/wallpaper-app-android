@@ -1,5 +1,5 @@
 {
-  "name": "WallReddit",
+  "name": "WallSpace",
   "description": "Premium Material 3 Reddit-powered wallpaper platform with auto-changer, downloads, favorites, ExoPlayer support, stats, AI collections, and viewed history tracking.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
