@@ -54,8 +54,8 @@ class RedditPagingSource(
             val joinedSubs = subreddits.joinToString("+")
 
             val endpoints = listOf(
-                Pair("https://www.reddit.com/", "android:com.example.wallreddit:v1.2.0 (by /u/fizzakjan7865_api)"),
-                Pair("https://old.reddit.com/", "android:com.example.wallreddit:v1.2.0 (by /u/fizzakjan7865_api)"),
+                Pair("https://www.reddit.com/", "android:com.example.wallspace:v1.2.0 (by /u/fizzakjan7865_api)"),
+                Pair("https://old.reddit.com/", "android:com.example.wallspace:v1.2.0 (by /u/fizzakjan7865_api)"),
                 Pair("https://www.reddit.com/", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"),
                 Pair("https://rl.bloat.cat/", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
             )
