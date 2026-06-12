@@ -66,7 +66,7 @@ fun FeedScreen(
                     .background(MaterialTheme.colorScheme.background)
                     .padding(horizontal = 16.dp, vertical = 12.dp)
             ) {
-                // WallReddit Brand Header matching HTML design precisely
+                // WallSpace Brand Header matching HTML design precisely
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
@@ -76,7 +76,7 @@ fun FeedScreen(
                 ) {
                     Column {
                         Text(
-                            text = "WallReddit",
+                            text = "WallSpace",
                             fontSize = 24.sp,
                             fontWeight = FontWeight.Bold,
                             color = MaterialTheme.colorScheme.primary, // `#D0BCFF`
